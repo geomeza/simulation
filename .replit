@@ -1,0 +1,2 @@
+language = "bash"
+run = "python3 analysis/3_neuron_network.py"
